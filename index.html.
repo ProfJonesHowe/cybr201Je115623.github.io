@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Jewelry Page</title>
+</head>
+<body>
+
+    <h1>Welcome to My Jewelry Website</h1>
+    
+    <h2>Why I am Obsessed with Jewelry</h2>
+    <p>Jewelry is one of my favorite items to collect. My friends and family love to buy and gift me jewelry from my most-liked places, or specifically, my grandmother brings me jewelry from around the world when she travels, such as Dubai, Russia, Turkey, etc.</p>
+    
+    <h2>Interesting Facts about Jewelry</h2>
+    <p>The word jewelry comes from the word “jouel,” which is French for toy. Another fun fact is that the first-ever diamonds were discovered in India.</p>
+    
+    <a href="https://jewelrylab.co/blogs/jewelry/jewelry-facts?srsltid=AfmBOooMl6sV0eaJ3aHEeQktiWjYr8QpZXYCfMoWhU0ws27OnJM_iiHK" target="_blank">
+        Fun Jewelry Facts
+    </a>
+    
+    <br><br>
+    
+    <img src="https://i.pinimg.com/736x/23/c5/89/23c58955e9ad99f5e550403cd4b7556f.jpg"
+         alt="Jewelry Image"
+         width="300">
+
+</body>
+</html>
